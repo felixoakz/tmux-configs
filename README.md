@@ -22,4 +22,4 @@ git clone https://github.com/felixoakz/tmux-configs ~/.config/tmux
 ln -s ~/.config/tmux/.tmux.conf ~/.tmux.conf
 
 ## Inside tmux, install plugins with:
-`$<M-x> + I`
+<M-x> + I
