@@ -18,7 +18,7 @@ Minimal, productive `tmux` config for terminal-focused workflows.
 ## Install
 
 ```sh
-git clone https://github.com/yourusername/tmux-minimal ~/.config/tmux
+git clone https://github.com/felixoakz/tmux-configs ~/.config/tmux
 ln -s ~/.config/tmux/.tmux.conf ~/.tmux.conf
 
 ## Inside tmux, install plugins with:
